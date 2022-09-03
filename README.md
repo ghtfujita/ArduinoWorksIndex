@@ -1,4 +1,4 @@
-<h2 align='center'> Works </h2>
+<h2 align='center'> My Works </h2>
 
 * [Timer Relay](https://github.com/ghtfujita/TimerRelay)
 * [Hydroponics Auto-Fertilizing System](https://github.com/ghtfujita/Hydroponics)
