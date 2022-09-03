@@ -18,6 +18,7 @@
 * Thermometer: DS18B20
 * TDS Meter: KEYESTUDIO TDS Meter
 * Photoresistor: GL5528
+* Soil Moisture Sensor: DiyStudio Capacitive Soil Moisture Sensor
 
 ### Output Devices
 * OLED: SSD1306
