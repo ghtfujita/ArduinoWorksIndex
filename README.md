@@ -1,9 +1,9 @@
 <h2 align='center'> My Works </h2>
 
-* [Timer Relay](https://github.com/ghtfujita/TimerRelay)
+* [Aquarium and Plant Watering Automator](https://github.com/ghtfujita/WateringSystem)
 * [Hydroponics Auto-Fertilizing System](https://github.com/ghtfujita/Hydroponics)
 * [Window Blind Automator](https://github.com/ghtfujita/BlindControl)
-* [Aquarium and Plant Watering Automator](https://github.com/ghtfujita/WateringSystem)
+* [Timer Relay](https://github.com/ghtfujita/TimerRelay)
 
 <h2 align='center'> Experience w/ Devices </h2>
 
